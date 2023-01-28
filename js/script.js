@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log(123131231);
+    console.log(555555);
 }
